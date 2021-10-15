@@ -98,7 +98,7 @@ a:hover {
   background-color: #4B9CF1;
 }
 
-.overlay-mf {
+/* .overlay-mf {
   position: absolute;
   top: 0;
   left: 0px;
@@ -106,7 +106,7 @@ a:hover {
   height: 100%;
   width: 100%;
   opacity: .7;
-}
+} */
 
 .paralax-mf {
   position: relative;
@@ -408,13 +408,13 @@ a:hover {
 .navbar-b {
   transition: all .5s ease-in-out;
   background-color: #4B9CF1;
-  padding-top: 1.563rem;
-  padding-bottom: 1.563rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
-.navbar-b.navbar-reduce {
+/* .navbar-b.navbar-reduce {
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
-}
+} */
 
 .navbar-b.navbar-trans .nav-item,
 .navbar-b.navbar-reduce .nav-item {
@@ -478,39 +478,39 @@ a:hover {
   color: #fff;
 }
 
-.navbar-b.navbar-reduce {
+/* .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
   background-color: #fff;
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
+  padding-top: 1px;
+  padding-bottom: 11px;
+} */
 
-.navbar-b.navbar-reduce .nav-link {
+/* .navbar-b.navbar-reduce .nav-link {
   color: #4B9CF1;
-}
+} */
 
-.navbar-b.navbar-reduce .nav-link:before {
+/* .navbar-b.navbar-reduce .nav-link:before {
   background-color: #4B9CF1;
-}
+} */
 
-.navbar-b.navbar-reduce .nav-link:hover {
+/* .navbar-b.navbar-reduce .nav-link:hover {
   color: #4B9CF1;
-}
+} */
 
-.navbar-b.navbar-reduce .show > .nav-link,
+/* .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
   color: #4B9CF1;
-}
+} */
 
-.navbar-b.navbar-reduce .navbar-brand {
+/* .navbar-b.navbar-reduce .navbar-brand {
   color: #4B9CF1;
-}
+} */
 
-.navbar-b.navbar-reduce .navbar-toggler span {
+/* .navbar-b.navbar-reduce .navbar-toggler span {
   background-color: #1B1B1B;
-}
+} */
 
 .navbar-b .navbar-brand {
   color: #fff;
@@ -677,9 +677,9 @@ a:hover {
 ======================================*/
 
 .about-mf .box-shadow-full {
-  margin-top: 6rem;
+  margin-top: 1rem;
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
 }
 
 .about-mf .about-img {
@@ -1068,7 +1068,7 @@ a:hover {
 }
 
 .contact-mf {
-  margin-top: 4rem;
+  margin-top: -1rem;
 }
 
 /*======================================
