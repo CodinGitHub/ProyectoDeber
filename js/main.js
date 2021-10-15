@@ -115,3 +115,7 @@
 	});
 
 })(jQuery);
+
+function enviado(){
+	alert("Gracias por contactarte conmigo, pronto te responderé.")
+}
